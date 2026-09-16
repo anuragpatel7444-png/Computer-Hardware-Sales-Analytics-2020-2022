@@ -5,14 +5,14 @@ An interactive Power BI business analytics dashboard analyzing hardware retail p
 ---
 
 ## 📊 Dashboard Overview
-<img src="Sales%20Dashboard%20Demo.jpg" width="100%" alt="Sales Dashboard">
+![Sales Dashboard Preview](Sales-Dashboard-Demo.jpg)
 
 ---
 
 ## 📌 Executive Summary
 * **Total Sales Revenue:** 16M
 * **Total Cost of Goods Sold (COGS):** 12M
-* **Gross Profit:** 4M (25% margin)
+* **Gross Profit:** 4M (25% profit margin)
 * **Total Units Sold:** 2K units
 * **Transactions Completed:** 797 orders
 

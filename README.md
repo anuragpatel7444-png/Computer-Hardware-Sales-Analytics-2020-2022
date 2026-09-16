@@ -5,7 +5,7 @@ An interactive Power BI business analytics dashboard analyzing hardware retail p
 ---
 
 ## 📊 Dashboard Overview
-![Sales Dashboard Preview](Sales-Dashboard-Demo.jpg)
+![Sales Dashboard Preview](Sales%20Dashboard%20Demo.png)
 
 ---
 
